@@ -1,5 +1,5 @@
 # R script to accompany Intro to R
-# Copy for Bailey Romano
+# Copy for Bailey Romano 
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
